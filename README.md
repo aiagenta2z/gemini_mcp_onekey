@@ -23,15 +23,16 @@ This MCP server is a API wrapper of Official Gemini API, supports various Gemini
 
 HttpStreaming MCP OneKey Router: Use Google Gemini Image Preview(Nano Banana) on OneKey MCP Router
 
-See OneKey MCP Router Demo Usage [Document](https://www.deepnlp.org/doc/onekey_mcp_router) and Register [Keys](https://deepnlp.org/workspace/keys)
+See OneKey MCP Router Document Usage [Document](https://www.deepnlp.org/doc/onekey_mcp_router) and Register [Keys](https://deepnlp.org/workspace/keys)
 
-[Gemini Nano Banana Playground](https://agent.deepnlp.org)
+[Website-Playground Gemini 3 Nano Banana MCP](https://agent.deepnlp.org/agent/mcp_tool_use?server=aiagenta2z%2Fgemini_mcp_onekey)  
 
 
 ### MCP Client (Cursor, Claude Desktop, VS Code, etc)
 
-Use One Access Key to MCP Proxy to use Nano Banana
+Use DeepNLP OneKey MCP Router Access Key to use Nano Banana on Cursor and other clients
 
+![Gemini Nano Banana MCP on Cursor](img/cursor_client.jpg)
 
 Gemini MCP Server on DeepNLP OneKey Router
 ```
@@ -58,6 +59,8 @@ or Alias (server_name=nano_banana)
 
 Beta Test Key 
 
+We are running beta test right now.
+
 ```
 DEEPNLP_ONEKEY_ROUTER_ACCESS=BETA_TEST_KEY_OCT_2025
 
@@ -69,8 +72,7 @@ DEEPNLP_ONEKEY_ROUTER_ACCESS=BETA_TEST_KEY_OCT_2025
 		},
 		"gemini": {
 			"url": "https://agent.deepnlp.org/mcp?server_name=gemini&onekey=BETA_TEST_KEY_OCT_2025"
-		},
-
+		}
 	}
 }
 ```
