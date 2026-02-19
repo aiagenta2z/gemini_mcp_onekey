@@ -4,7 +4,12 @@
 
 This MCP server is a API wrapper of Official Gemini API, supports various Gemini Models (Gemini 2.5, Gemini 3 for text, images, speech, etc)
 
-[Website-Playground Gemini 3 Nano Banana MCP](https://agent.deepnlp.org/agent/mcp_tool_use?server=aiagenta2z%2Fgemini_mcp_onekey)  
+Try Gemini Nano Banana in Playground for Enough Free Quota
+Visit [Website-Playground Gemini 3 Nano Banana MCP](https://agent.deepnlp.org/?server=aiagenta2z%2Fgemini_mcp_onekey)  
+
+![Gemini 3](img/gemini_playground_snapshot.png)
+
+
 [Nano Banana MCP Server](https://www.deepnlp.org/store/ai-agent/coding-agent/pub-aiagenta2z/gemini_mcp_onekey)
 
 ![Gemini 3](img/thanksgiving_turkey_escape.png)
